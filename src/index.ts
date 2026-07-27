@@ -1,1 +1,1 @@
-console.log("Club platform starting...");
+console.log('Club platform starting...');
