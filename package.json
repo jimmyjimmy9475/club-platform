@@ -1,0 +1,25 @@
+{
+  "name": "club-platform",
+  "version": "1.0.0",
+  "description": "A modular club management platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmyjimmy9475/club-platform.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jimmyjimmy9475/club-platform/issues"
+  },
+  "homepage": "https://github.com/jimmyjimmy9475/club-platform#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
