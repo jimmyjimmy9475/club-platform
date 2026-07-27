@@ -10,3 +10,7 @@ This project uses:
 - Node.js
 - PostgreSQL
 - Next.js
+
+## Author
+
+This project was made by JimmyJimmy
